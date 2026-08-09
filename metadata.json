@@ -1,0 +1,6 @@
+{
+  "name": "Snake Play Max",
+  "description": "3D multiplayer snake game with voice chat system, player ID friend list, metallic hexagonal textures, and blue/red emissive neon glows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
